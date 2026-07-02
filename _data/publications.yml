@@ -12,8 +12,14 @@ main:
     page: https://www.nature.com/articles/s41437-024-00729-7
     image: ./assets/img/fig1.png
 
-  - title: "The evolution and maintenance of trioecy with cytoplasmic male sterility"
-    authors: Mai Thu Nguyen*, John Pannell (*Corresponding authors)
-    conference: Heredity, 2025
+  - title: "Widespread male sterility and trioecy in androdioecious Mercurialis annua: Its distribution, genetic basis, and estimates of morph‐speciﬁc ﬁtness components"
+    authors: Mai Thu Nguyen*, Thomas Martignier, John Pannell (*Corresponding authors)
+    conference: American Journal of Botany, 2024
     page: https://www.nature.com/articles/s41437-024-00729-7
-    image: ./assets/img/fig1.png
+    image: ./assets/img/fig0.png
+
+  - title: "Particle size as a driver of dewatering performance and its relationship to stabilization in fecal sludge"
+    authors: B.J. Ward, M.T. Nguyen, S.B. Sam, N. Korir, C.B. Niwagaba, E. Morgenroth, L. Strande a (*Corresponding authors)
+    conference: Journal of Environmental Management, 2023
+    page: https://www.sciencedirect.com/science/article/pii/S030147972202374X
+    image: ./assets/img/fig0.png
