@@ -20,4 +20,3 @@ I am an evolutionary biologist studying sexual systems, life-history strategies,
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
