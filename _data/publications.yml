@@ -1,20 +1,19 @@
 main:
 
-  - title: Geographical gradients in leaky sex expression and reproductive effort in a dioecious plant are consistent with selection during range expansion
+  - title: "Geographical gradients in leaky sex expression and reproductive effort in a dioecious plant are consistent with selection during range expansion"
     authors: Mai Thu Nguyen*, John Pannell (*Corresponding authors)
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    conference: Journal of Evolutionary Biology, 2026
+    image: ./assets/img/graphAbst.png
+    page: https://academic.oup.com/jeb/advance-article/doi/10.1093/jeb/voag044/8707704
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "The evolution and maintenance of trioecy with cytoplasmic male sterility"
+    authors: Mai Thu Nguyen*, John Pannell (*Corresponding authors)
+    conference: Heredity, 2025
+    page: https://www.nature.com/articles/s41437-024-00729-7
+    image: ./assets/img/fig1.png
+
+  - title: "The evolution and maintenance of trioecy with cytoplasmic male sterility"
+    authors: Mai Thu Nguyen*, John Pannell (*Corresponding authors)
+    conference: Heredity, 2025
+    page: https://www.nature.com/articles/s41437-024-00729-7
+    image: ./assets/img/fig1.png
