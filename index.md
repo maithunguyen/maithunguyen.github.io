@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an evolutionary biologist. I obtained my PhD from the University of Lausanne (Switzerland) in 2026 under the supervision of Prof. John Pannell. During my PhD, I combined mathematical modelling, computer simulations, experiments, and fieldwork to study the evolution of sexual systems and life-history strategies in flowering plants. Starting in September 2026, I will be a postdoctoral fellow at the University of Oxford, where I will investigate the relationships among habitat disturbance, life-history strategies, and mating systems in plants.
+I am an evolutionary biologist. I obtained my PhD from the University of Lausanne (Switzerland) in 2026 under the supervision of Prof. John Pannell. During my PhD, I combined mathematical modelling, computer simulations, experiments, and fieldwork to study the evolution of sexual systems and life-history strategies in flowering plants. Starting in March 2027, I will be a postdoctoral fellow at the University of Oxford, where I will investigate the relationships among habitat disturbance, life-history strategies, and mating systems in plants.
 
 ## Research Interests
 
